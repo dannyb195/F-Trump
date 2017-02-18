@@ -1,5 +1,9 @@
 # F-Trump
-Tiny hands
+
+## Note that while this code creates a random name, email address, and zip code it may not be completely anonymous due to IP address or other factors
+
+
+Donald Trump has tiny hands
 
 
 /**
